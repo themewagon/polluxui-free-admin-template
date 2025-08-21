@@ -22,7 +22,7 @@ Design and code are completely written by BootstrapDash's design and development
 
 ## License
 
- - Design and Code is Copyright &copy; [BootstrapDashb](/https://www.bootstrapdash.com/)
+ - Design and Code is Copyright &copy; [BootstrapDash](/https://www.bootstrapdash.com/)
  - Licensed under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
-](https://www.adminmart.com/)
+
